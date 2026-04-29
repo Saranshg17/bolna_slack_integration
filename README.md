@@ -86,9 +86,9 @@ telephony_data may include duration details
 
 
 ## **Results**
-![Bolna Setup](https://drive.google.com/file/d/1nSaJZ-BG5hdi5pTYIBEPFc5cz6UWVBTw/view?usp=sharing)
+![Bolna Setup](https://drive.google.com/uc?export=view&id=1nSaJZ-BG5hdi5pTYIBEPFc5cz6UWVBTw)
 
-![Slack Alerts](https://drive.google.com/file/d/1q2fY3R5a7ogZBeh9e9sRV2Ta9PSrcKtd/view?usp=share_link)
+![Slack Alerts](https://drive.google.com/uc?export=view&id=1q2fY3R5a7ogZBeh9e9sRV2Ta9PSrcKtd)
 
-![Bolna Call logs](https://drive.google.com/file/d/1p7GyP0Ck4cDetr2Xk7spDlAkoIEYGIRa/view?usp=sharing)
+![Bolna Call logs](https://drive.google.com/uc?export=view&id=1p7GyP0Ck4cDetr2Xk7spDlAkoIEYGIRa)
 
